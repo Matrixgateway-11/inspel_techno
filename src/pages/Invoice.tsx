@@ -115,7 +115,7 @@ export default function Invoice() {
               </h2>
               <p className="text-slate-500 text-sm sm:text-base leading-relaxed">
                 It's a lot easier than you think. No matter what business your customers are in — freelancers,
-                teachers, boutique owners, homemakers, or professionals — Matrix Gateway helps you accept
+                teachers, boutique owners, homemakers, or professionals — Inspel Technologies helps you accept
                 payments from everyone.
               </p>
             </ScrollReveal>
@@ -217,7 +217,7 @@ export default function Invoice() {
           <ScrollReveal>
             <div className="text-center mb-12">
               <h2 className="text-2xl sm:text-3xl font-extrabold text-[#0F1E5C] tracking-[-0.04em]">
-                The Matrix Gateway Product Suite Includes Invoices Too
+              The Inspel Technologies Product Suite Includes Invoices Too
               </h2>
             </div>
           </ScrollReveal>

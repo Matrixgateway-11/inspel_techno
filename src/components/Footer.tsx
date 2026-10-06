@@ -31,10 +31,10 @@ export default function Footer() {
           <div className="col-span-2 sm:col-span-3 lg:col-span-2">
             <Link to="/" className="flex items-center gap-1.5 mb-5 w-fit focus:outline-none focus:ring-2 focus:ring-[#1A56DB] rounded-lg">
               <div className="w-7 h-7 bg-[#1A56DB] rounded-md flex items-center justify-center">
-                <span className="text-white font-black text-sm leading-none">M</span>
+                <span className="text-white font-black text-sm leading-none">I</span>
               </div>
               <span className="font-extrabold text-lg text-white tracking-[-0.04em]">
-                Matrix<span className="text-[#60A5FA]">Gateway</span>
+                Inspel<span className="text-[#60A5FA]">Technologies</span>
               </span>
             </Link>
             <p className="text-sm text-white/40 leading-relaxed max-w-xs mb-6 font-normal">
@@ -76,7 +76,7 @@ export default function Footer() {
         {/* Bottom — links row */}
         <div className="pt-7 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-xs text-white/25">
-            © {new Date().getFullYear()} Matrix Gateway. All rights reserved.
+            © {new Date().getFullYear()} Inspel Technologies. All rights reserved.
           </p>
           <div className="flex items-center gap-6">
             <Link to="#" className="text-xs text-white/25 hover:text-white/50 transition-colors">Privacy Policy</Link>

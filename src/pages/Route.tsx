@@ -62,7 +62,7 @@ export default function RoutePage() {
               <motion.div initial={{ opacity: 0, y: 14 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.4 }}>
                 <div className="inline-flex items-center gap-2 mb-5">
                   <span className="w-2 h-2 bg-[#1A56DB] rounded-full" />
-                  <span className="text-[#1A56DB] text-xs font-bold uppercase tracking-[0.14em]">Matrix Gateway Route</span>
+                  <span className="text-[#1A56DB] text-xs font-bold uppercase tracking-[0.14em]">Inspel Technologies Route</span>
                 </div>
               </motion.div>
 
@@ -180,7 +180,7 @@ export default function RoutePage() {
               </p>
               <p className="text-slate-500 text-sm sm:text-base leading-relaxed">
                 It offers security even when accepting payments through subscriptions, payment links, invoices,
-                and more. These can all be easily split using Matrix Gateway Route.
+                and more. These can all be easily split using Inspel Technologies Route.
               </p>
             </ScrollReveal>
 

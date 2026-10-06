@@ -17,7 +17,7 @@ const serverUtils = [
 function IntegrationFlow() {
   const nodes = [
     { icon: Code2, label: 'Your App', sub: 'API request' },
-    { icon: Building2, label: 'Matrix API', sub: 'Processing' },
+    { icon: Building2, label: 'Inspel API', sub: 'Processing' },
     { icon: Smartphone, label: 'Bank / UPI', sub: 'Authorising' },
     { icon: CheckCircle2, label: 'Success', sub: 'Confirmed' },
   ]
@@ -148,7 +148,7 @@ export default function Developers() {
                 className="text-slate-500 text-base sm:text-lg mb-8 max-w-lg leading-relaxed"
               >
                 Server-side SDKs for every popular language and comprehensive documentation.
-                Integrate Matrix Gateway into your stack quickly and reliably.
+                Integrate Inspel Technologies into your stack quickly and reliably.
               </motion.p>
 
               <motion.div
@@ -258,7 +258,7 @@ export default function Developers() {
                   Integrate Quickly with Comprehensive Docs
                 </h2>
                 <p className="text-blue-100/70 text-sm leading-relaxed mb-8 max-w-2xl">
-                  Everything you need to integrate Matrix Gateway. Test our APIs on staging right away.
+                  Everything you need to integrate Inspel Technologies. Test our APIs on staging right away.
                 </p>
 
                 <div className="flex flex-col sm:flex-row gap-3">

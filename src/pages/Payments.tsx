@@ -61,7 +61,7 @@ export default function Payments() {
                 className="text-slate-500 text-base sm:text-lg mb-8 max-w-lg leading-relaxed"
               >
                 The swiftest and easiest way to collect and disburse payments. Register today and let
-                Matrix Gateway be your digital payment partner.
+                Inspel Technologies be your digital payment partner.
               </motion.p>
 
               <motion.div
@@ -108,13 +108,13 @@ export default function Payments() {
             <ScrollReveal direction="left">
               <div className="inline-flex items-center gap-2 mb-4">
                 <span className="w-2 h-2 bg-[#1A56DB] rounded-full" />
-                <span className="text-[#1A56DB] text-xs font-bold uppercase tracking-[0.14em]">Why Matrix Gateway</span>
+                <span className="text-[#1A56DB] text-xs font-bold uppercase tracking-[0.14em]">Why Inspel Technologies</span>
               </div>
               <h2 className="text-3xl sm:text-4xl font-extrabold text-[#0F1E5C] tracking-[-0.04em] leading-[1.15] mb-5">
                 What We Provide the Best
               </h2>
               <p className="text-slate-500 text-sm sm:text-base leading-relaxed mb-4">
-                Matrix Gateway offers a wide range of solutions for payment processing. With integration
+                Inspel Technologies offers a wide range of solutions for payment processing. With integration
                 across major banks and a broad set of payment options, the platform handles transactions
                 through credit cards, debit cards, UPI, IMPS, and more.
               </p>
@@ -191,7 +191,7 @@ export default function Payments() {
               <div className="flex justify-center">
                 <motion.img
                   src="/images/payments-onboard.png"
-                  alt="Getting onboard with Matrix Gateway"
+                  alt="Getting onboard with Inspel Technologies"
                   width={500}
                   height={450}
                   loading="lazy"

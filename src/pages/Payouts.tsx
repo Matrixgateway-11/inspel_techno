@@ -37,7 +37,7 @@ export default function Payouts() {
                 initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.45, delay: 0.08 }}
                 className="text-[2.4rem] sm:text-5xl lg:text-[3rem] font-extrabold text-[#0F1E5C] leading-[1.12] tracking-[-0.04em] mb-5"
               >
-                Matrix Gateway{' '}
+                Inspel Technologies{' '}
                 <span className="bg-gradient-to-r from-[#1A56DB] to-[#60A5FA] bg-clip-text text-transparent">
                   Payouts
                 </span>
@@ -48,7 +48,7 @@ export default function Payouts() {
                 className="text-slate-500 text-base sm:text-lg mb-8 max-w-lg leading-relaxed"
               >
                 Disbursing money is an inevitable part of business — and the better the technology, the better
-                the results. Matrix Gateway brings you a powerful set of payout tools that make sending money
+                the results. Inspel Technologies brings you a powerful set of payout tools that make sending money
                 fast, reliable, and effortless.
               </motion.p>
 
@@ -135,7 +135,7 @@ export default function Payouts() {
                 Disburse Money with Ease
               </h2>
               <p className="text-slate-500 text-sm sm:text-base leading-relaxed mb-4">
-                It's easy with minimum documentation and hassle-free transactions. Matrix Gateway gives you the
+                It's easy with minimum documentation and hassle-free transactions. Inspel Technologies gives you the
                 convenience to send money to vendors, partners, employees, and customers — all from one place.
               </p>
               <p className="text-slate-500 text-sm sm:text-base leading-relaxed mb-6">

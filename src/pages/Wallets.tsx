@@ -53,7 +53,7 @@ export default function Wallets() {
                 transition={{ duration: 0.45, delay: 0.08 }}
                 className="text-[2.4rem] sm:text-5xl lg:text-[3rem] font-extrabold text-[#0F1E5C] leading-[1.12] tracking-[-0.04em] mb-5"
               >
-                Matrix Gateway{' '}
+                Inspel Technologies{' '}
                 <span className="bg-gradient-to-r from-[#1A56DB] to-[#60A5FA] bg-clip-text text-transparent">
                   Wallet
                 </span>
@@ -133,7 +133,7 @@ export default function Wallets() {
             {/* Right — descriptive paragraph */}
             <ScrollReveal direction="right">
               <p className="text-slate-500 text-sm sm:text-base leading-relaxed mb-4">
-                The Matrix Gateway wallet is an exciting feature that offers multiple benefits to customers.
+                The Inspel Technologies wallet is an exciting feature that offers multiple benefits to customers.
                 It is an infrastructure-light, interoperable digital payment solution that enables easy, swift,
                 and secure payments at merchant locations or physical stores.
               </p>

@@ -102,7 +102,7 @@ export default function About() {
                 transition={{ duration: 0.4, delay: 0.16 }}
                 className="text-slate-500 text-base sm:text-lg mb-8 max-w-lg leading-relaxed"
               >
-                Matrix Gateway is a modern payment infrastructure company providing businesses across
+                Inspel Technologies is a modern payment infrastructure company providing businesses across
                 India with the tools they need to accept, process, and disburse digital payments.
               </motion.p>
 
@@ -146,7 +146,7 @@ export default function About() {
                   companies of every size across India.
                 </p>
                 <p className="text-slate-500 text-sm sm:text-base leading-relaxed mb-7">
-                  Matrix Gateway brings all payment methods, payouts, and automation together in a single
+                  Inspel Technologies brings all payment methods, payouts, and automation together in a single
                   platform — so you can focus on your business, not your billing.
                 </p>
                 <Link to="/payment-gateway"
@@ -189,7 +189,7 @@ export default function About() {
                 We Are The Best Online<br />Payment Gateway Platform
               </h2>
               <p className="text-slate-500 text-sm leading-relaxed mb-8 max-w-lg">
-                Matrix Gateway is dedicated to providing affordable, reliable payment infrastructure for all
+                Inspel Technologies is dedicated to providing affordable, reliable payment infrastructure for all
                 types of businesses across India — with transparent pricing and best-in-class technology.
               </p>
 
@@ -236,7 +236,7 @@ export default function About() {
           <div className="relative min-h-[420px] lg:min-h-[560px] flex items-center justify-center overflow-hidden">
             <img
               src="/images/about-team.jpg"
-              alt="Businesses growing with Matrix Gateway"
+              alt="Businesses growing with Inspel Technologies"
               loading="lazy"
               className="absolute inset-0 w-full h-full object-cover"
             />
@@ -280,7 +280,7 @@ export default function About() {
                 Helping Businesses Grow with Seamless Payments
               </h2>
               <p className="text-slate-500 text-sm sm:text-base leading-relaxed mb-6">
-                Let your business grow with a seamless checkout experience powered by Matrix Gateway.
+                Let your business grow with a seamless checkout experience powered by Inspel Technologies.
                 Whether you're a startup or an enterprise, we provide the infrastructure to accept,
                 process, and disburse payments reliably.
               </p>
@@ -358,7 +358,7 @@ export default function About() {
         </div>
       </section>
 
-      <CTASection title="Ready to Build with Matrix Gateway?" subtitle="Start today and get your payment infrastructure live fast." />
+      <CTASection title="Ready to Build with Inspel Technologies?" subtitle="Start today and get your payment infrastructure live fast." />
     </>
   )
 }

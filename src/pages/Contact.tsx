@@ -205,7 +205,7 @@ export default function Contact() {
                     {[
                       { icon: Mail, label: 'Email', value: companyInfo.email, href: `mailto:${companyInfo.email}` },
                       { icon: Phone, label: 'Phone', value: companyInfo.phone, href: undefined },
-                      { icon: MapPin, label: 'Address', value: companyInfo.address, href: undefined },
+                      { icon: MapPin, label: 'Address', value: companyInfo.fullAddress, href: undefined },
                     ].map(({ icon: Icon, label, value, href }) => (
                       <div key={label} className="flex items-start gap-3">
                         <div className="w-9 h-9 bg-[#EFF6FF] rounded-lg flex items-center justify-center flex-shrink-0">

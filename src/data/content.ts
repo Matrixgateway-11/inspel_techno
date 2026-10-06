@@ -1,13 +1,14 @@
 ﻿export const companyInfo = {
-  name: 'Matrix Gateway',
-  legalName: 'MATRIX GATEWAY PRIVATE LIMITED',
+  name: 'Inspel Technologies',
+  legalName: 'INSPEL TECHNOLOGIES PRIVATE LIMITED',
   tagline: 'Modern Payment Infrastructure',
-  description: 'Matrix Gateway provides comprehensive payment solutions for Indian businesses — from accepting payments to disbursing payouts, all through a single, developer-friendly platform.',
+  description: 'Inspel Technologies provides comprehensive payment solutions for Indian businesses — from accepting payments to disbursing payouts, all through a single, developer-friendly platform.',
   email: 'contact@matrixgateway.in',
   support: 'support@matrixgateway.in',
   phone: '+91-XXXXX-XXXXX',
   address: 'Puducherry, India',
-  cin: 'U62099PY2025PTC009515',
+  fullAddress: 'No. 113 (59), S.V. Patel Salai, Puducherry, 605001, India',
+  cin: 'U62010PY2026PTC009663',
 }
 
 export const trustMetrics = [

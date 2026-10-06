@@ -13,7 +13,7 @@ interface CTASectionProps {
 
 export default function CTASection({
   title = 'Start Accepting Payments Today',
-  subtitle = 'Join businesses across India that trust Matrix Gateway for their payment infrastructure.',
+  subtitle = 'Join businesses across India that trust Inspel Technologies for their payment infrastructure.',
   primaryLabel = 'Get Started Free',
   primaryHref = '/contact',
   secondaryLabel = 'Talk to Sales',

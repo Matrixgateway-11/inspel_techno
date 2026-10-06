@@ -16,7 +16,7 @@ const serviceCards = [
   { icon: 'payment-pages',   title: 'Payment Pages',    desc: 'Tackle your payment lifecycles with technology that helps in advanced payment solutions.', href: '/payment-pages' },
   { icon: 'payments',        title: 'Payments',         desc: 'One suite for every way you collect — cards, UPI, links, pages, and more.', href: '/payment' },
   { icon: 'route',           title: 'Route',            desc: 'Intelligent routing and distribution for converged payment solutions.', href: '/route' },
-  { icon: 'invoice',         title: 'Invoice',          desc: 'No matter what business your customers are in — Matrix Gateway helps you accept payments for everyone.', href: '/invoice' },
+  { icon: 'invoice',         title: 'Invoice',          desc: 'No matter what business your customers are in — Inspel Technologies helps you accept payments for everyone.', href: '/invoice' },
 ]
 
 const whyIcons: Record<string, string> = {
@@ -142,7 +142,7 @@ export default function Home() {
                 transition={{ duration: 0.4, delay: 0.16 }}
                 className="text-slate-500 text-base leading-relaxed mb-8 max-w-md"
               >
-                Matrix Gateway offers a comprehensive and secure range of payment channels
+                Inspel Technologies offers a comprehensive and secure range of payment channels
                 to simplify making payments or receiving them.
               </motion.p>
 
@@ -209,7 +209,7 @@ export default function Home() {
                   We Provide<br />Awesome Services
                 </h2>
                 <p className="text-white/70 text-sm leading-relaxed">
-                  "Matrix Gateway provides multiple features with a single registration — here are our awesome services"
+                  "Inspel Technologies provides multiple features with a single registration — here are our awesome services"
                 </p>
               </div>
             </ScrollReveal>
@@ -231,7 +231,7 @@ export default function Home() {
                 </div>
                 <div className="border-t border-slate-100 pt-5">
                   <h3 className="text-lg font-extrabold text-[#0F1E5C] tracking-[-0.03em] mb-1.5">
-                    Let's get you started with your Matrix Gateway account
+                    Let's get you started with your Inspel Technologies account
                   </h3>
                   <p className="text-sm text-slate-500 mb-4">Our sales team will get in touch with you within 24 hours. Promise!</p>
                   <Link to="/contact"
@@ -419,10 +419,10 @@ export default function Home() {
               <span className="w-2 h-2 bg-white/50 rounded-full" />
             </div>
             <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-white tracking-[-0.04em] leading-tight mb-6 max-w-3xl mx-auto">
-              Matrix Gateway — India's Modern Payment Infrastructure
+              Inspel Technologies — India's Modern Payment Infrastructure
             </h2>
             <p className="text-white/70 text-base leading-relaxed max-w-2xl mx-auto mb-10">
-              Matrix Gateway provides the services of online payment transfer from customers to merchants,
+              Inspel Technologies provides the services of online payment transfer from customers to merchants,
               making the whole process simplified and fast. It can be used in all types of businesses —
               registered or not, with or without a website, small startup or large enterprise — any
               business can use our services.
@@ -460,7 +460,7 @@ export default function Home() {
       </section>
 
       {/* ══════════════════════════════════════
-          WHY MATRIX GATEWAY
+          WHY INSPEL TECHNOLOGIES
       ══════════════════════════════════════ */}
       <section className="section-padding bg-white">
         <div className="container-wide">
@@ -475,7 +475,7 @@ export default function Home() {
                 Built for Every Business
               </h2>
               <p className="text-slate-500 mt-3 max-w-xl mx-auto text-sm leading-relaxed">
-                From a solo entrepreneur to a large enterprise — Matrix Gateway provides the infrastructure you need.
+                From a solo entrepreneur to a large enterprise — Inspel Technologies provides the infrastructure you need.
               </p>
             </div>
           </ScrollReveal>
@@ -485,7 +485,7 @@ export default function Home() {
               { title: 'Security-Conscious Design', desc: 'Payment workflows built with secure data handling and encrypted transmission at every layer.' },
               { title: 'Instant Processing',        desc: 'Real-time payment confirmation so your customers get a seamless checkout experience.' },
               { title: '150+ Payment Methods',      desc: 'UPI, cards, net banking, wallets, EMI — one integration, all methods.' },
-              { title: 'For All Business Types',    desc: 'Registered or unregistered, online or offline — Matrix Gateway works for everyone.' },
+              { title: 'For All Business Types',    desc: 'Registered or unregistered, online or offline — Inspel Technologies works for everyone.' },
               { title: 'Scalable Infrastructure',   desc: 'Built to handle growing transaction volumes without any performance compromise.' },
               { title: 'Mobile Ready',              desc: 'Every checkout experience is fully optimised for mobile — where India pays.' },
             ].map((item, i) => (

@@ -9,10 +9,10 @@ function Logo() {
     <Link to="/" className="flex items-center gap-2 focus:outline-none focus:ring-2 focus:ring-[#1A56DB] focus:ring-offset-2 rounded-lg">
       <div className="flex items-center gap-1.5">
         <div className="w-7 h-7 bg-[#1A56DB] rounded-md flex items-center justify-center flex-shrink-0">
-          <span className="text-white font-black text-sm leading-none">M</span>
+          <span className="text-white font-black text-sm leading-none">I</span>
         </div>
         <span className="font-extrabold text-lg text-[#0F1E5C] tracking-[-0.04em] whitespace-nowrap">
-          Matrix<span className="text-[#1A56DB]">Gateway</span>
+          Inspel<span className="text-[#1A56DB]">Technologies</span>
         </span>
       </div>
     </Link>
