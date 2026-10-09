@@ -29,13 +29,16 @@ export default function Footer() {
 
           {/* Brand */}
           <div className="col-span-2 sm:col-span-3 lg:col-span-2">
-            <Link to="/" className="flex items-center gap-1.5 mb-5 w-fit focus:outline-none focus:ring-2 focus:ring-[#1A56DB] rounded-lg">
-              <div className="w-7 h-7 bg-[#1A56DB] rounded-md flex items-center justify-center">
-                <span className="text-white font-black text-sm leading-none">I</span>
-              </div>
-              <span className="font-extrabold text-base sm:text-lg text-white tracking-[-0.02em]">
-                INSPEL <span className="text-[#60A5FA]">TECHNOLOGIES SOLUTIONS</span>
-              </span>
+            <Link to="/" className="block mb-5 w-fit focus:outline-none focus:ring-2 focus:ring-[#1A56DB] rounded-lg">
+              <img
+                src="/inspel-logo-dark.webp"
+                alt="INSPEL TECHNOLOGIES SOLUTIONS"
+                width={547}
+                height={168}
+                className="h-12 sm:h-14 w-auto select-none"
+                loading="lazy"
+                draggable={false}
+              />
             </Link>
             <p className="text-sm text-white/40 leading-relaxed max-w-xs mb-6 font-normal">
               Modern payment infrastructure for Indian businesses. Accept, process, and disburse — one platform.

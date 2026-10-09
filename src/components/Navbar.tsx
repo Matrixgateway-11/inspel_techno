@@ -6,15 +6,15 @@ import { servicesNav, mainNavItems } from '../data/navigation'
 
 function Logo() {
   return (
-    <Link to="/" className="flex items-center gap-2 focus:outline-none focus:ring-2 focus:ring-[#1A56DB] focus:ring-offset-2 rounded-lg">
-      <div className="flex items-center gap-1.5">
-        <div className="w-7 h-7 bg-[#1A56DB] rounded-md flex items-center justify-center flex-shrink-0">
-          <span className="text-white font-black text-sm leading-none">I</span>
-        </div>
-        <span className="font-extrabold text-[13px] sm:text-base lg:text-lg text-[#0F1E5C] tracking-[-0.02em] whitespace-nowrap">
-          INSPEL <span className="text-[#1A56DB]">TECHNOLOGIES SOLUTIONS</span>
-        </span>
-      </div>
+    <Link to="/" className="flex items-center flex-shrink-0 focus:outline-none focus:ring-2 focus:ring-[#1A56DB] focus:ring-offset-2 rounded-lg">
+      <img
+        src="/inspel-logo-light.webp"
+        alt="INSPEL TECHNOLOGIES SOLUTIONS"
+        width={547}
+        height={168}
+        className="h-10 lg:h-11 w-auto select-none"
+        draggable={false}
+      />
     </Link>
   )
 }
@@ -192,7 +192,7 @@ export default function Navbar() {
         : 'bg-white/95 backdrop-blur-sm'
       }`}>
       <div className="container-wide">
-        <div className="flex items-center justify-between h-14">
+        <div className="flex items-center justify-between h-16">
           <Logo />
 
           {/* Desktop nav — Home · About · Services · Partner · Developers · Contact */}
