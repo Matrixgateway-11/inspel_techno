@@ -54,7 +54,7 @@ export default function PaymentLinks() {
                 initial={{ opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.4, delay: 0.16 }}
                 className="text-slate-500 text-base sm:text-lg mb-8 max-w-lg leading-relaxed"
               >
-                It can't get easier than this. Inspel Technologies links let you get paid immediately — share the
+                It can't get easier than this. INSPEL TECHNOLOGIES SOLUTIONS links let you get paid immediately — share the
                 payment link via email, SMS, messenger, and other platforms. Accepting payments from customers
                 is now merely a click away.
               </motion.p>

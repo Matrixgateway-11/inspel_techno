@@ -148,7 +148,7 @@ export default function Developers() {
                 className="text-slate-500 text-base sm:text-lg mb-8 max-w-lg leading-relaxed"
               >
                 Server-side SDKs for every popular language and comprehensive documentation.
-                Integrate Inspel Technologies into your stack quickly and reliably.
+                Integrate INSPEL TECHNOLOGIES SOLUTIONS into your stack quickly and reliably.
               </motion.p>
 
               <motion.div
@@ -258,7 +258,7 @@ export default function Developers() {
                   Integrate Quickly with Comprehensive Docs
                 </h2>
                 <p className="text-blue-100/70 text-sm leading-relaxed mb-8 max-w-2xl">
-                  Everything you need to integrate Inspel Technologies. Test our APIs on staging right away.
+                  Everything you need to integrate INSPEL TECHNOLOGIES SOLUTIONS. Test our APIs on staging right away.
                 </p>
 
                 <div className="flex flex-col sm:flex-row gap-3">

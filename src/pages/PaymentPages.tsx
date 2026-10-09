@@ -151,7 +151,7 @@ export default function PaymentPages() {
                 Take Your Business to New Levels
               </h2>
               <p className="text-slate-500 text-sm sm:text-base leading-relaxed mb-8">
-                Everything to run your business smartly is right here. Register with Inspel Technologies and get a
+                Everything to run your business smartly is right here. Register with INSPEL TECHNOLOGIES SOLUTIONS and get a
                 host of features to run your business effectively — from integration kits to detailed controls.
               </p>
               <div className="space-y-6">

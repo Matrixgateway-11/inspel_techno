@@ -6,7 +6,7 @@ import ServiceIconBadge from '../components/ServiceIcon'
 
 /* Checkout feature grid */
 const checkoutFeatures = [
-  { icon: 'gateway-platform', title: 'Inspel Technologies Platform', desc: 'A wide, assorted set of solutions for payment-processing transactions — integrated with major banks and payment methods.', highlight: false },
+  { icon: 'gateway-platform', title: 'INSPEL TECHNOLOGIES SOLUTIONS Platform', desc: 'A wide, assorted set of solutions for payment-processing transactions — integrated with major banks and payment methods.', highlight: false },
   { icon: 'options', title: 'Countless Payment Options', desc: 'Payment options are key to retaining customers. Accept cards, net banking, wallets, UPI, QR, NEFT/RTGS, and more.', highlight: true },
   { icon: 'security', title: 'Security-Conscious Encryption', desc: 'Online security backed by encryption and secure data handling — a high level of protection for every transaction.', highlight: true },
   { icon: 'retry', title: 'Retry Option', desc: 'Offer customers the luxury of all payment modes — Credit/Debit cards, Net Banking, UPI, Wallets, and more.', highlight: false },
@@ -48,7 +48,7 @@ export default function PaymentGateway() {
                 className="text-slate-500 text-base sm:text-lg mb-8 max-w-lg leading-relaxed"
               >
                 It's the swiftest and easiest way to collect and disburse payments. Register today and allow
-                Inspel Technologies to be your digital payment partner.
+                INSPEL TECHNOLOGIES SOLUTIONS to be your digital payment partner.
               </motion.p>
 
               <motion.div

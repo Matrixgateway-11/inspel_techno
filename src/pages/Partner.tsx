@@ -184,7 +184,7 @@ export default function Partner() {
               >
                 Grow Together with<br />
                 <span className="bg-gradient-to-r from-[#1A56DB] to-[#60A5FA] bg-clip-text text-transparent">
-                  Inspel Technologies
+                  INSPEL TECHNOLOGIES SOLUTIONS
                 </span>
               </motion.h1>
 
@@ -240,7 +240,7 @@ export default function Partner() {
                 Working with 140+ Financial Institutions
               </h2>
               <p className="text-slate-500 mt-3 max-w-xl mx-auto text-sm leading-relaxed">
-                Inspel Technologies integrates with leading card networks, UPI apps, wallets, and banks across India.
+                INSPEL TECHNOLOGIES SOLUTIONS integrates with leading card networks, UPI apps, wallets, and banks across India.
               </p>
             </div>
           </ScrollReveal>
@@ -284,7 +284,7 @@ export default function Partner() {
       {/* Benefits */}
       <section className="section-padding bg-white">
         <div className="container-wide">
-          <SectionHeader label="Partner Benefits" title="Why Partner with Inspel Technologies?" />
+          <SectionHeader label="Partner Benefits" title="Why Partner with INSPEL TECHNOLOGIES SOLUTIONS?" />
           <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-5 mt-12">
             {[
               { icon: 'revenue', title: 'Revenue Sharing', desc: 'Competitive revenue sharing model with transparent payouts.' },

@@ -3,6 +3,7 @@ import { Outlet, useLocation } from 'react-router-dom'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 import PageTransition from '../components/PageTransition'
+import WhatsAppButton from '../components/WhatsAppButton'
 
 export default function MainLayout() {
   const { pathname } = useLocation()
@@ -20,6 +21,7 @@ export default function MainLayout() {
         </PageTransition>
       </main>
       <Footer />
+      <WhatsAppButton />
     </div>
   )
 }

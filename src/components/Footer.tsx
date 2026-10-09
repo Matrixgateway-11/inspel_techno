@@ -23,7 +23,7 @@ function FooterCol({ title, links }: { title: string; links: { label: string; hr
 export default function Footer() {
   return (
     <footer className="bg-[#040E2B] border-t border-white/[0.06]" role="contentinfo">
-      <div className="container-wide pt-14 pb-8">
+      <div className="container-wide pt-14 pb-24">
         {/* Main grid */}
         <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-8 lg:gap-10 pb-12 border-b border-white/[0.06]">
 
@@ -76,7 +76,7 @@ export default function Footer() {
         {/* Bottom — links row */}
         <div className="pt-7 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-xs text-white/25">
-            © {new Date().getFullYear()} Inspel Technologies. All rights reserved.
+            © {new Date().getFullYear()} INSPEL TECHNOLOGIES SOLUTIONS. All rights reserved.
           </p>
           <div className="flex items-center gap-6">
             <Link to="#" className="text-xs text-white/25 hover:text-white/50 transition-colors">Privacy Policy</Link>
