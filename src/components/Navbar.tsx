@@ -11,8 +11,8 @@ function Logo() {
         <div className="w-7 h-7 bg-[#1A56DB] rounded-md flex items-center justify-center flex-shrink-0">
           <span className="text-white font-black text-sm leading-none">I</span>
         </div>
-        <span className="font-extrabold text-lg text-[#0F1E5C] tracking-[-0.04em] whitespace-nowrap">
-          Inspel<span className="text-[#1A56DB]">Technologies</span>
+        <span className="font-extrabold text-[13px] sm:text-base lg:text-lg text-[#0F1E5C] tracking-[-0.02em] whitespace-nowrap">
+          INSPEL <span className="text-[#1A56DB]">TECHNOLOGIES SOLUTIONS</span>
         </span>
       </div>
     </Link>

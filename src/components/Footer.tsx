@@ -33,8 +33,8 @@ export default function Footer() {
               <div className="w-7 h-7 bg-[#1A56DB] rounded-md flex items-center justify-center">
                 <span className="text-white font-black text-sm leading-none">I</span>
               </div>
-              <span className="font-extrabold text-lg text-white tracking-[-0.04em]">
-                Inspel<span className="text-[#60A5FA]">Technologies</span>
+              <span className="font-extrabold text-base sm:text-lg text-white tracking-[-0.02em]">
+                INSPEL <span className="text-[#60A5FA]">TECHNOLOGIES SOLUTIONS</span>
               </span>
             </Link>
             <p className="text-sm text-white/40 leading-relaxed max-w-xs mb-6 font-normal">
